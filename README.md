@@ -19,4 +19,3 @@ An example of how to define the functions is found in the class _SampleModel_ th
 <p align="center">
   <img src="https://github.com/gubena/MuscularModel/blob/main/images/image_2023-09-10_174035227.png" />
 </p>
-
