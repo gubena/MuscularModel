@@ -16,10 +16,10 @@ Then the user has to define the abstarct functions:
 - _abstract void defineWeights(float x, float y, int variantIndex, int weightIndex)_
 
 An example of how to define the functions is found in the class _SampleModel_ that creates a simple muscular model:
-<p align="center">
-  <img src="https://github.com/gubena/MuscularModel/blob/main/images/image_2023-09-10_174035227.png" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/gubena/MuscularDemo/blob/main/images/image_2023-09-10_174653548.png" />
-</p>
+![](https://github.com/gubena/MuscularModel/blob/main/images/image_2023-09-10_174035227.png)
+
+
+And this is a model of an arm that can be found in the repository [_MuscularDemo_](https://github.com/gubena/MuscularDemo) that is a demostration of this class
+
+![](https://github.com/gubena/MuscularDemo/blob/main/images/image_2023-09-10_174653548.png)
