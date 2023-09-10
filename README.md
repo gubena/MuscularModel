@@ -15,4 +15,5 @@ Then the user has to define the abstarct functions:
 <br /> abstract void defineMuscles(float x, float y, int variantIndex)
 <br /> abstract void defineWeights(float x, float y, int variantIndex, int weightIndex)
 
-An example of how to define the functions is found in the class _SampleModel_ that creates a simple muscular model.
+An example of how to define the functions is found in the class _SampleModel_ that creates a simple muscular model:
+![alt text](https://github.com/gubena/MuscularModel/blob/main/images/image_2023-09-10_174035227.png)
