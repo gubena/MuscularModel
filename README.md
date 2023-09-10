@@ -9,11 +9,11 @@ This means that the muscles in this simulation act like real muscles so the simu
 
 To use this code and make a muscular model simulation the user has to create a concrete class that extends _MuscularModel_.
 Then the user has to define the abstarct functions:
-- abstract void defineMain()
-- abstract void defineBones(float x, float y, int variantIndex)
-- abstract void defineJoints(float x, float y, int variantIndex)
-- abstract void defineMuscles(float x, float y, int variantIndex)
-- abstract void defineWeights(float x, float y, int variantIndex, int weightIndex)
+- _abstract void defineMain()_
+- _abstract void defineBones(float x, float y, int variantIndex)_
+- _abstract void defineJoints(float x, float y, int variantIndex)_
+- _abstract void defineMuscles(float x, float y, int variantIndex)_
+- _abstract void defineWeights(float x, float y, int variantIndex, int weightIndex)_
 
 An example of how to define the functions is found in the class _SampleModel_ that creates a simple muscular model:
 <p align="center">
